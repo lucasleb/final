@@ -22,6 +22,7 @@ group :production do
      gem 'rails_12factor'
 end
 
+gem 'devise', '~> 3.4.1'
 
 
 
