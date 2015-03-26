@@ -10,7 +10,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
-gem 'paperclip', '~> 4.2.1'
+gem 'paperclip', '~> 4.2'
 gem 'aws-sdk', '< 2.0.32'
 
 
